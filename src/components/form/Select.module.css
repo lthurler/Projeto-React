@@ -1,0 +1,17 @@
+.formControl {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1em;
+}
+
+.formControl label {
+    font-weight: bold;
+    padding-bottom: .6em;
+}
+
+.formControl select {
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+
