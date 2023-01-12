@@ -1,6 +1,6 @@
 import styles from './Submit.module.css'
 
-function Submit ({ text }) {
+function SubmitButton ({ text }) {
 
     return (
         <div>
@@ -9,4 +9,4 @@ function Submit ({ text }) {
     )
 }
 
-export default Submit
+export default SubmitButton

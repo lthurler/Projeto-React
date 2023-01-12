@@ -2,18 +2,25 @@
   "projects": [
     {
       "name": "teste2",
-      "budget": "60000",
+      "budget": "600000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "name": "ddd",
+          "cost": "450",
+          "description": "ss",
+          "id": "b02d9c3f-1295-44bb-9259-6bb8d4945b40"
+        }
+      ],
       "id": 2
     },
     {
-      "name": "landing page edit",
-      "budget": "70000",
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -26,7 +33,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "infra"
+      "name": "Infra"
     },
     {
       "id": 2,
